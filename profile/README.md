@@ -24,5 +24,5 @@ Development server, a hub of KJ's projects, including [Plymouth](https://github.
 
 [![KJP12 Development](https://discord.com/api/guilds/380201541078089738/widget.png?style=banner2)](https://discord.gg/EmPS9y9)
 
-If you'd like to jump straight into development instead, check out [contributing guidelines](../CONTRIBUTING.md) and
-start hacking away.
+If you'd like to jump straight into development instead, check out [contributing guidelines](CONTRIBUTING.md) and start
+hacking away.
